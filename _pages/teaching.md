@@ -7,7 +7,7 @@ author_profile: true
 
 Teaching Assistant @ NCSU
 ======
-* CSC724, Advanced Distributed Systems, Spring 2020
+* CSC724 Advanced Distributed Systems, Spring 2020
 
 Teaching Assistant @ HKBU
 ======
