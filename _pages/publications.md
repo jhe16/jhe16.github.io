@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /publications/
-title: Publications
+title: ""
 author_profile: true
 ---
 
@@ -33,7 +33,7 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), <i>sh
 <br/>
 
 <b>[SOCC'18]</b> [DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf)<br/>
-Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and Peipei Wang <br/>
+Ting Dai, <b>Jingzhu He</b>, Xiaohui Gu, Shan Lu, and Peipei Wang <br/>
 Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2018.
 <br/>
 <br/>
