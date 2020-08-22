@@ -2,12 +2,18 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+    url: /research/
 
 #   - title: "Talks"
 #     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Professional Services"
+    url: /services/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
