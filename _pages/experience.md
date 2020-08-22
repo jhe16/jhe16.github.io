@@ -1,6 +1,5 @@
 ---
 layout: archive
-permalink: /experience/
 author_profile: true
 ---
 
