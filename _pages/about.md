@@ -14,7 +14,5 @@ I have a broad interest in distributed system, cloud computing and big data anal
 
 Prior to coming to NCSU, I obtained my Bachelor degree from [School of Electronic and Science Engineering](https://ese.nju.edu.cn/ese_en/main.htm) of [Nanjing University](https://www.nju.edu.cn/en/main.psp) in June 2013. I obtained M.Phil degree from [Hong Kong Baptist University](http://www.hkbu.edu.hk/eng/main/index.jsp) in June 2016. 
 
-I was interned at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) in Summer 2019 and Summer 2020. 
-
 <i><b>I am on the job market now!</b></i>
 
