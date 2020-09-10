@@ -57,3 +57,11 @@ Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu <br/>
 Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>poster session</i>, 2020
 <br/>
 <br/>
+
+M.Phil. Thesis
+======
+[Video File Distribution among Geo-distributed Cloud Servers](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1304&context=etd_oa)<br/>
+<b>Jingzhu He</b> <br/>
+Hong Kong Baptist Univeristy, 2016
+<br/>
+<br/>
