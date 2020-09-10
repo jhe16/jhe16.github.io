@@ -58,10 +58,3 @@ Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Sympo
 <br/>
 <br/>
 
-M.Phil. Thesis
-======
-[Video File Distribution among Geo-distributed Cloud Servers](https://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1304&context=etd_oa)<br/>
-<b>Jingzhu He</b> <br/>
-Hong Kong Baptist Univeristy, 2016
-<br/>
-<br/>
