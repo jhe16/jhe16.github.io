@@ -14,7 +14,7 @@ Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2020.
 <br/>
 <br/>
 
-<b>[ACSOS'20]</b> [Self-Patch: Beyond Patch Tuesday for Containerized Applications]()<br/>
+<b>[ACSOS'20]</b> [Self-Patch: Beyond Patch Tuesday for Containerized Applications](http://dance.csc.ncsu.edu/papers/ACSOS20.pdf)<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu <br/>
 Proc. of IEEE International Conference on Autonomic Computing and Self-Organizing Systems (<b>ACSOS</b>), <i>short paper</i>, 2020.
 <br/>
