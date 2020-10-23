@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* <b>Teaching Assistant @ North Carolina State University</b>: 
+* <b>Teaching Assistant @ North Carolina State University</b>
   * CSC724 Advanced Distributed Systems, Spring 2020
 
-* <b>Teaching Assistant @ Hong Kong Baptist University</b>:
+* <b>Teaching Assistant @ Hong Kong Baptist University</b>
   * COMP7560 Information Systems Auditing, Spring 2014
   * COMP7800 Analytic Models in IT Management, Spring 2014 and Fall 2014
   * COMP3670 Mobile Computing, Fall 2014
