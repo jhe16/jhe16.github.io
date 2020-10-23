@@ -8,7 +8,7 @@ author_profile: true
 
 Conference Papers
 ======
-<b>[SOCC'20]</b> [HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems]()<br/>
+<b>[SOCC'20]</b> [HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems](https://dl.acm.org/doi/pdf/10.1145/3419111.3421288)<br/>
 <b>Jingzhu He</b>, Ting Dai, Xiaohui Gu and Guoliang Jin<br/>
 Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2020.
 <br/>
@@ -52,7 +52,7 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2018.
 
 Posters
 ======
-<b>[HotSoS'20]</b> [Toward Just-in-Time Patching for Containerized Applications]()<br/>
+<b>[HotSoS'20]</b> [Toward Just-in-Time Patching for Containerized Applications](https://dl.acm.org/doi/pdf/10.1145/3384217.3384225?casa_token=IEChjBccpaAAAAAA:KAynfQNmlxfZY4yZJNfOgquWen8Gf4wJMPaQUTsnr9mWnqZ4KoGlq8tKToLWoP7KWFkGiCT46GW9)<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu <br/>
 Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>poster session</i>, 2020
 <br/>
