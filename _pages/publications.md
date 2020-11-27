@@ -8,7 +8,7 @@ author_profile: true
 
 Conference Papers
 ======
-<b>[SOCC'20]</b> [HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems](http://dance.csc.ncsu.edu/papers/SOCC20.pdf)<br/>
+<b>[SOCC'20]</b> [HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems](http://dance.csc.ncsu.edu/papers/SOCC20.pdf1)<br/>
 <b>Jingzhu He</b>, Ting Dai, Xiaohui Gu and Guoliang Jin<br/>
 Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2020.
 <br/>
