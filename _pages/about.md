@@ -12,5 +12,4 @@ I am Jingzhu He, a final year PhD student at [Department of Computer Science](ht
 
 Prior to coming to NCSU, I obtained my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in June 2013. I obtained an MPhil degree from [Hong Kong Baptist University](http://www.hkbu.edu.hk/eng/main/index.jsp) in June 2016. 
 
-<i><b>I am on the job market now!</b></i>
 
