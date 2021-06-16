@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * <b>Teaching Assistant @ North Carolina State University</b>
+  * CSC724 Advanced Distributed Systems, Spring 2021
   * CSC724 Advanced Distributed Systems, Spring 2020
 
 * <b>Teaching Assistant @ Hong Kong Baptist University</b>
