@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Jingzhu He, a final year PhD student at [Department of Computer Science](https://www.csc.ncsu.edu) of [North Carolina State University](https://www.ncsu.edu). I have successfully defended my thesis on June 8th, 2021. I am a member of [DANCE research group](http://dance.csc.ncsu.edu), working with [Dr. Xiaohui (Helen) Gu](https://www.csc.ncsu.edu/faculty/gu/). I have a broad interest in distributed systems, cloud computing and machine learning for systems. Currently, I am conducting researches on developing automatic bug detection, diagnosis, and fixing tools for distributed systems. 
+I am Jingzhu He, an assistant professor in the [School of Informatiton Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/main.htm) at the [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/main.htm). I received my PhD degree from the [Department of Computer Science](https://www.csc.ncsu.edu) of [North Carolina State University](https://www.ncsu.edu), advised by [Prof. Xiaohui (Helen) Gu](https://www.csc.ncsu.edu/faculty/gu/). Before that, I obtained my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in June 2013. I obtained an MPhil degree from [Hong Kong Baptist University](http://www.hkbu.edu.hk/eng/main/index.jsp) in June 2016. I have a broad interest in distributed systems, cloud computing and machine learning for systems. Currently, I am conducting researches on developing automatic bug detection, diagnosis, and fixing tools for distributed systems. 
 
-Prior to coming to NCSU, I obtained my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in June 2013. I obtained an MPhil degree from [Hong Kong Baptist University](http://www.hkbu.edu.hk/eng/main/index.jsp) in June 2016. 
+I am looking for highly self-motivated PhD/MS students. Several RA positions are available. If you are interested in working with me, please drop me an email with your CV.
+
+
 
 
