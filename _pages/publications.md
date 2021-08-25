@@ -6,8 +6,15 @@ author_profile: true
 ---
 
 
-Conference Papers
-======
+<!-- Conference Papers
+====== -->
+
+<b>[ECML-PKDD'21]</b> [Mining Anomalies in Subspaces of High-dimensional Time Series for Financial Transactional Data](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_520.pdf)<br/>
+<b>Jingzhu He</b>, Chin-Chia Michael Yeh, Yanhong Wu, Liang Wang, and  Wei Zhang<br/>
+The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2021.
+<br/>
+<br/>
+
 <b>[SOCC'20]</b> [HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems](http://dance.csc.ncsu.edu/papers/SOCC20.pdf)<br/>
 <b>Jingzhu He</b>, Ting Dai, Xiaohui Gu and Guoliang Jin<br/>
 Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2020.
@@ -17,6 +24,12 @@ Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2020.
 <b>[ACSOS'20]</b> [Self-Patch: Beyond Patch Tuesday for Containerized Applications](http://dance.csc.ncsu.edu/papers/ACSOS20.pdf)<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu <br/>
 Proc. of IEEE International Conference on Autonomic Computing and Self-Organizing Systems (<b>ACSOS</b>), <i>short paper</i>, 2020.
+<br/>
+<br/>
+
+<b>[HotSoS'20]</b> [Toward Just-in-Time Patching for Containerized Applications](https://dl.acm.org/doi/pdf/10.1145/3384217.3384225?casa_token=IEChjBccpaAAAAAA:KAynfQNmlxfZY4yZJNfOgquWen8Gf4wJMPaQUTsnr9mWnqZ4KoGlq8tKToLWoP7KWFkGiCT46GW9)<br/>
+Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu <br/>
+Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>poster session</i>, 2020
 <br/>
 <br/>
 
@@ -50,11 +63,4 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2018.
 <br/>
 <br/>
 
-Posters
-======
-<b>[HotSoS'20]</b> [Toward Just-in-Time Patching for Containerized Applications](https://dl.acm.org/doi/pdf/10.1145/3384217.3384225?casa_token=IEChjBccpaAAAAAA:KAynfQNmlxfZY4yZJNfOgquWen8Gf4wJMPaQUTsnr9mWnqZ4KoGlq8tKToLWoP7KWFkGiCT46GW9)<br/>
-Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu <br/>
-Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>poster session</i>, 2020
-<br/>
-<br/>
 
