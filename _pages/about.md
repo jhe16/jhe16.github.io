@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jingzhu He, a tenure-track assistant professor in the [School of Informatiton Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/main.htm) at the [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/main.htm). I received my PhD degree from the [Department of Computer Science](https://www.csc.ncsu.edu) of the [North Carolina State University](https://www.ncsu.edu) in August 2021, advised by [Prof. Xiaohui (Helen) Gu](https://www.csc.ncsu.edu/faculty/gu/). Before that, I obtained my MPhil degree from [Hong Kong Baptist University](http://www.hkbu.edu.hk/eng/main/index.jsp) in June 2016. I got my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in June 2013. 
+I am a tenure-track Assistant Professor in the [School of Informatiton Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/main.htm) at the [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/main.htm). I received my PhD degree from the [Department of Computer Science](https://www.csc.ncsu.edu) of the [North Carolina State University](https://www.ncsu.edu) in August 2021, advised by [Prof. Xiaohui (Helen) Gu](https://www.csc.ncsu.edu/faculty/gu/). Before that, I obtained my MPhil degree from [Hong Kong Baptist University](http://www.hkbu.edu.hk/eng/main/index.jsp) in June 2016. I got my Bachelor degree from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in June 2013. 
 
-I have a broad interest in distributed systems, cloud computing and machine learning for systems. Currently, I am conducting researches on developing automatic bug detection, diagnosis, and fixing tools for distributed systems. 
+I have a broad interest in distributed systems, cloud computing and machine learning for systems. Currently, I am conducting researches on developing automatic bug detection, diagnosis, and fixing tools for cloud systems. 
 
 I am looking for self-motivated PhD/MS students. Several RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
 
