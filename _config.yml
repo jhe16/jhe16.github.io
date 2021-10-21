@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingzhu He"
 title_separator          : "-"
 name                     : &name "Jingzhu He"
-description              : &description "PhD student at North Carolina State University"
+description              : &description "Assistant Professor at ShanghaiTech University"
 url                      : https://jhe16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jhe16.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Jingzhu He"
   avatar           : "IMG_1568.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor at ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :  
   pubmed           : 
