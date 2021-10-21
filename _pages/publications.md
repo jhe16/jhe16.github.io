@@ -70,7 +70,7 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2018.
  Preprints
 ====== 
 
-<b>[1]</b> [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)<br/>
+\[1\] [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)<br/>
 <b>Jingzhu He</b>, Ting Dai and Xiaohui Gu<br/>
 <br/>
 <br/>
