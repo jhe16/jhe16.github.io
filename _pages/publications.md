@@ -10,12 +10,13 @@ author_profile: true
 ====== -->
 
 * <b>Preprints</b>
-\[1] [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)
+
+<b>[1]</b> [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)
 <b>Jingzhu He</b>, Ting Dai and Xiaohui Gu<br/>
 
 
 * <b>Refereed publications</b>
-* 
+
 <b>[ECML-PKDD'21]</b> [Mining Anomalies in Subspaces of High-dimensional Time Series for Financial Transactional Data](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_520.pdf)<br/>
 <b>Jingzhu He</b>, Chin-Chia Michael Yeh, Yanhong Wu, Liang Wang, and  Wei Zhang<br/>
 The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2021.
