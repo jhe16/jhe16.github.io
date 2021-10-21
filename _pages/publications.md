@@ -9,15 +9,6 @@ author_profile: true
 <!-- Conference Papers
 ====== -->
 
- Preprints
-====== 
-
-<b>[1]</b> [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)<br/>
-<b>Jingzhu He</b>, Ting Dai and Xiaohui Gu<br/>
-<br/>
-<br/>
-
-
 Referred Publications
 ======
 
@@ -72,6 +63,15 @@ Proc. of IEEE International Conference on Autonomic Computing (<b>ICAC</b>), 201
 <b>[C1]</b> [Understanding Real-World Timeout Problems in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/IC2E18.pdf)<br/>
 Ting Dai, <b>Jingzhu He</b>, Xiaohui Gu, and Shan Lu<br/>
 Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2018. (<b>best paper nominee</b>)
+<br/>
+<br/>
+
+
+ Preprints
+====== 
+
+<b>[1]</b> [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)<br/>
+<b>Jingzhu He</b>, Ting Dai and Xiaohui Gu<br/>
 <br/>
 <br/>
 
