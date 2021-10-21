@@ -12,7 +12,7 @@ I am a tenure-track Assistant Professor in the [School of Informatiton Science a
 
 I have a broad interest in distributed systems, cloud computing and machine learning for systems. Currently, I am conducting researches on developing automatic bug detection, diagnosis, and fixing tools for cloud systems. 
 
-I am looking for self-motivated PhD/MS students. Several RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
+I am looking for self-motivated PhD/MS students. Several postdoc and RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
 
 
 
