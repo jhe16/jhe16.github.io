@@ -19,8 +19,8 @@ The European Conference on Machine Learning and Principles and Practice of Knowl
 <br/>
 
 \[C8\] [HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems](http://dance.csc.ncsu.edu/papers/SOCC20.pdf)<br/>
-<b>Jingzhu He</b>, Ting Dai, Xiaohui Gu and Guoliang Jin. <br/>
-Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2020.
+<b>Jingzhu He</b>, Ting Dai, Xiaohui Gu, and Guoliang Jin. <br/>
+Proc. of ACM Symposium on Cloud Computing (<b>SoCC</b>), 2020.
 <br/>
 <br/>
 
@@ -50,7 +50,7 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), <i>sh
 
 \[C3\] [DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf)<br/>
 Ting Dai, <b>Jingzhu He</b>, Xiaohui Gu, Shan Lu, and Peipei Wang. <br/>
-Proc. of ACM Symposium on Cloud Computing (<b>SOCC</b>), 2018.
+Proc. of ACM Symposium on Cloud Computing (<b>SoCC</b>), 2018.
 <br/>
 <br/>
 
@@ -71,7 +71,8 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2018.
 ====== 
 
 \[1\] [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)<br/>
-<b>Jingzhu He</b>, Ting Dai and Xiaohui Gu. <br/>
+<b>Jingzhu He</b>, Ting Dai, and Xiaohui Gu. <br/>
+arXiv preprint, 2021.
 <br/>
 <br/>
 
