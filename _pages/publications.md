@@ -9,7 +9,7 @@ author_profile: true
 <!-- Conference Papers
 ====== -->
 
-Referred Publications
+Refereed Publications
 ======
 
 \[C9\] [Mining Anomalies in Subspaces of High-dimensional Time Series for Financial Transactional Data](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_520.pdf)<br/>
