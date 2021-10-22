@@ -13,7 +13,7 @@ I am a tenure-track Assistant Professor in the [School of Informatiton Science a
 My research interest lies in improving reliability, availability and performance of large-scale cloud systems. Currently, I am conducting researches on developing automatic bug detection, diagnosis, and fixing tools for cloud systems. 
 
 
-Recruitment
+# Recruitment
 ----
 
 I am looking for self-motivated PhD/MS students. Several postdoc and RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
