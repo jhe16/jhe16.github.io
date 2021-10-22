@@ -10,7 +10,7 @@ author_profile: true
 ====== -->
 
 # Refereed Publications
------
+----
 
 \[C9\] [Mining Anomalies in Subspaces of High-dimensional Time Series for Financial Transactional Data](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_520.pdf)<br/>
 <b>Jingzhu He</b>, Chin-Chia Michael Yeh, Yanhong Wu, Liang Wang, and  Wei Zhang. <br/>
@@ -68,7 +68,7 @@ Proc. of IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2018.
 
 
 # Preprints
------
+----
 
 \[1\] [TFix+: Self-configuring Hybrid Timeout Bug Fixing for Cloud Systems](https://arxiv.org/abs/2110.04101)<br/>
 <b>Jingzhu He</b>, Ting Dai, and Xiaohui Gu. <br/>
