@@ -19,5 +19,9 @@ My research interest lies in improving reliability, availability, and performanc
 I am looking for self-motivated PhD/MS students. Several Postdoc and RA positions are available. If you are interested in working with me, please feel free to drop me an email with your CV.
 
 
+# News
+----
 
+\[2021/12\] PerfSig paper is accepted to ICSE 2022!
 
+\[2021/08\] I join ShanghaiTech University as an Assistant Professor!
