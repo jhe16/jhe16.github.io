@@ -26,5 +26,4 @@ I am looking for self-motivated PhD/MS students. Several Postdoc and RA position
 ----
 
 \[2021/12\] PerfSig paper is accepted to ICSE 2022.
-
 \[2021/08\] I join ShanghaiTech University as an Assistant Professor!
