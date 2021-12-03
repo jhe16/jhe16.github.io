@@ -12,7 +12,7 @@ author_profile: true
 # Refereed Publications
 ----
 
-\[C10\] [PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis]()
+\[C10\] [PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis]() <br/>
 <b>Jingzhu He</b>, Yuhang Lin, Xiaohui Gu, Chin-Chia Michael Yeh, and Zhongfang Zhuang. <br/>
 Proc. of IEEE/ACM International Conference on Software Engineering (<b>ICSE</b>), 2022.
 <br/>
