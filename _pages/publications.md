@@ -38,7 +38,7 @@ Proc. of IEEE International Conference on Autonomic Computing and Self-Organizin
 
 \[P6\] [Toward Just-in-Time Patching for Containerized Applications](https://dl.acm.org/doi/pdf/10.1145/3384217.3384225?casa_token=IEChjBccpaAAAAAA:KAynfQNmlxfZY4yZJNfOgquWen8Gf4wJMPaQUTsnr9mWnqZ4KoGlq8tKToLWoP7KWFkGiCT46GW9)<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, <b>Jingzhu He</b>, and Xiaohui Gu. <br/>
-Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>poster session</i>, 2020.
+Proc. of the 7th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>Poster Session</i>, 2020.
 <br/>
 <br/>
 
