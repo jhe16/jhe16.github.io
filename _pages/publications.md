@@ -20,7 +20,7 @@ Proc. of the 44th International Conference on Software Engineering (<b>ICSE</b>)
 
 \[C9\] [Mining Anomalies in Subspaces of High-dimensional Time Series for Financial Transactional Data](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_520.pdf)<br/>
 <b>Jingzhu He</b>, Chin-Chia Michael Yeh, Yanhong Wu, Liang Wang, and  Wei Zhang. <br/>
-The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2021.
+The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), <i>Applied Data Science Track</i>, 2021.
 <br/>
 <br/>
 
