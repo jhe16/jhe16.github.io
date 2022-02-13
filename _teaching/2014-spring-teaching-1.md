@@ -45,6 +45,11 @@ Both project proposal and final report should follow typical paper requirements 
 Class Schedule (Tentative)
 ======
 
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
+
 Suggested Topics for Student Presentations
 ======
 1. Guangpu Li, Shan Lu, Madanlal Musuvathi, Suman Nath, Rohan Padhye, Efficient Scalable Thread-Safety-Violation Detection, Proc. of SOSP 2019. 
