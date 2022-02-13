@@ -1,10 +1,10 @@
 ---
 title: "Advanced Distributed Systems"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "1A-108, SIST, ShanghaiTech University"
+date: 2022-01-01
 location: "City, Country"
 ---
 
