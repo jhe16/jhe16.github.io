@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* CS225 Advanced Distributed Systems, Spring 2022
+* [CS225 Advanced Distributed Systems](https://github.com/jhe16/jhe16.github.io/blob/master/_teaching/2014-spring-teaching-1.md), Spring 2022
 
 <!-- * <b>Teaching Assistant @ North Carolina State University</b>
   * CSC724 Advanced Distributed Systems, Spring 2021
