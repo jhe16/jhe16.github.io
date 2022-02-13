@@ -67,7 +67,18 @@ Class Schedule (Tentative)
 | 4/7        | Virtualization and cloud computing     | 4/11 midnight: review due for Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.       | 
 | 4/12        |   Distributed file systems                 |        |
 | 4/14        | Distributed file systems     | 4/18 midnight: review due for Hiep Nguyen, Zhiming Shen, Xiaohui Gu, Sethuraman Subbiah, John Wilkes, AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service, Proc. of USENIX International Conference on Autonomic Computing (ICAC), San Jose, CA, June, 2013.  | 
-
+| 4/19        |   Project mid-review presentations                |        |
+| 4/21        | System research methodology     | No paper reading assigned. You should spend time on your term projects.  | 
+| 4/26        |   Student paper presentation                 |        |
+| 4/28        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
+| 5/3        |   Student paper presentation                 |        |
+| 5/5        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
+| 5/10        |   Student paper presentation                 |        |
+| 5/12        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
+| 5/17        |   Student paper presentation                 |        |
+| 5/19       | Project demo    | No paper reading assigned. You should spend time on your term projects.  | 
+| 5/24        |   Final project presentation                |        |
+| 5/26       |  Final project presentation    | 5/30 midnight: final project report due, project source code and document due. Your project source code and document submission should be a single zip file. The zip file should include your system source code including all other dependent packages, the experimental subjects used in the project report, instructions on how to set up and use the system to reproduce the experimental results, and other documents that help others understand your tool and source code.  | 
 
 
 
