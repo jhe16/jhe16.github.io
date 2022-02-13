@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "City, Country"
 ---
 
-This course explores design and implementation principles in modern distributed systems. In particular, the course will emphasize on recent techniques used by real-world distributed systems such as cloud systems, enterprise data center, and virtualized container systems. Topics include canonical distributed concepts such as remote procedure call, distributed objects, replication, distributed system security, consensus protocol, and recent distributed system technologies such as peer-to-peer, grid, autonomic computing, distributed massive data processing/Google map-reduce, machine learning for distributed systems, distributed system debugging, multi-core systems, distributed virtualization.
+This course explores design and implementation principles in modern distributed systems. In particular, the course will emphasize on recent techniques used by real-world distributed systems such as cloud systems, enterprise data center, and virtualized container systems. Topics include canonical distributed concepts such as remote procedure call, replication, distributed system security, consensus protocol, and recent distributed system technologies such as peer-to-peer, grid, autonomic computing, distributed massive data processing/Google map-reduce, machine learning for distributed systems, distributed system debugging, multi-core systems, distributed virtualization.
 
 Prerequisites
 ======
@@ -24,24 +24,50 @@ Calculated by the time recorded in the assignment emails received to the instruc
 
 Textbooks
 ======
-1. Distributed systems principles and paradigms, Andrew S. Tanenbaum and Maarten van Steen, ISBN：0-13-239227-5, Pearson, 2007.
-2. Distributed Systems: Concepts and Design, George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair, ISBN：978-0132143011, Pearson, 2011.
+1. Distributed systems principles and paradigms, Andrew S. Tanenbaum and Maarten van Steen, ISBN: 0-13-239227-5, Pearson, 2007.
+2. Distributed Systems: Concepts and Design, George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair, ISBN: 978-0132143011, Pearson, 2011.
 
 Paper Review Guidelines
 ======
-Provide a paragraph of summary about the paper, a paragraph of 2-3 strong points of the paper (i.e., Why the paper should be accepted), a paragraph of 2-3 weak points of the paper (i.e., why the paper should be rejected),  brainstorming ideas for developing new research ideas related to the work described in the paper.
+Provide a paragraph of summary about the paper, a paragraph of 2-3 strong points of the paper (i.e., why the paper should be accepted), a paragraph of 2-3 weak points of the paper (i.e., why the paper should be rejected),  brainstorming ideas for developing new research ideas related to the work described in the paper.
 
 Projects
 ======
 Suggested topics:
 1. Virtual Machine Management in Distributed Computing Environments
 2. System Monitoring & Behavior Learning for Anomaly Detection
-3. Distributed system diagnosis using console logs or traces
+3. Distributed System Diagnosis Using Console Logs or Traces
+Course project environments: HPC cluster, Amazon AWS, Google cloud
 
-Both project proposal and final report should follow typical paper requirements using ACM Double-Column Paper format. The project proposal should include abstract, introduction, proposed approaches, and related work. The final project report should include a full paper content including abstract, introduction, design and algorithms, experiment evaluation, related work, and conclusion. We will organize a mini-conference for the students to present their project work. Three best papers will be selected during the mini-conference.
+Both project proposal and final report should follow typical paper requirements using [ACM Double-Column Paper format](https://www.acm.org/publications/authors/submissions). The project proposal should include abstract, introduction, proposed approaches, and related work. The final project report should include a full paper content including abstract, introduction, design and algorithms, experiment evaluation, related work, and conclusion. The expected project report's length is 6 pages excluding references. We will organize a mini-conference for the students to present their project work. Three best papers will be selected during the mini-conference.
 
 Class Schedule (Tentative)
 ======
+
+Suggested Topics for Student Presentations
+======
+1. Guangpu Li, Shan Lu, Madanlal Musuvathi, Suman Nath, Rohan Padhye, Efficient Scalable Thread-Safety-Violation Detection, Proc. of SOSP 2019. 
+2. Yongle Zhang, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure, Proc. of SOSP 2019. 
+3. Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and Peipei Wang, DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems, Proc. of ACM Symposium on Cloud Computing (SOCC), Carlsbad, CA, October, 2018. 
+4. Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, FChain: Toward Black-box Online Fault Localization for Cloud Systems, Proc. of ICDCS 2013. 
+5. Tuomas Pelkonen Scott Franklin Justin Teller Paul Cavallaro Qi Huang Justin Meza Kaushik Veeraraghavan, Gorilla: A Fast, Scalable, In-Memory Time Series Database, Proc. of VLDB 2015. 
+6. Benjamin H. Sigelman, Luiz Andre Barroso, Mike Burrows, Pat Stephenson, ´ Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag, Dapper, a Large-Scale Distributed Systems Tracing Infrastructure, Google Technical Report. 
+7. Philipp Moritz et al., Ray: A Distributed Framework for Emerging AI Applications, Proc. of OSDI 2018. 
+8. Yunseong Lee, et al., M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, Discretized Streams: Fault-Tolerant Streaming Computation at Scale, Proc. of SOSP 2013. 
+9. Shoumik Palkar and Matei Zaharia, Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations, Proc. of SOSP 2019. 
+10. Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.  
+11. Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, and John Wilkes, CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems, Proc. of ACM SOCC 2011. 
+12. Guiseppe DeCandia et al, Dynamo: Amazon’s Highly Available Key-Value Store, Proc. of SOSP 2007. 
+13. James C. Corbett et al., Spanner: Google’s Globally-Distributed Database, Proc. of OSDI 2012. 
+14. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
+15. Antonis Papadimitriou et al., Big Data Analytics over Encrypted Datasets with Seabed , Proc. of OSDI 2016. 
+16. Yan Zhai et al., CQSTR: Securing Cross-Tenant Applications with Cloud Containers, Proc. of SOCC 2016. 
+
+Academic Integrity
+======
+The university provides a detailed policy on academic integrity. It is understood that when you submit your homework, you are implicitly agreeing to the university honor pledge: “I have neither given nor received unauthorized aid on this test or assignment.”
+
+Academic dishonesty (e.g., cheating or plagiarism) will not be tolerated under any circumstances. If you are having difficulty with any part of the course material, please see me as soon as possible. I will do everything I can to help you with any course-related problems you may be having. If you are found to be guilty of academic dishonesty, however, I will then do everything I can to see that you are punished as forcefully as possible. This may include asking to have you suspended or expelled from the course, the program, and/or the university. At a minimum, you will receive -50% for the assignment in question, and your name will be placed on record with the university as having committed an academic offence. Multiple offences during your academic career will result in suspension or expulsion from the university. I take absolutely no pleasure in pursuing cases of academic misconduct, and would ask that you please do not put me in this position.
 
 
 
