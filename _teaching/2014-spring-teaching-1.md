@@ -45,10 +45,12 @@ Both project proposal and final report should follow typical paper requirements 
 Class Schedule (Tentative)
 ======
 
-| Item         | Price     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
+| Date         | Topic                            | Assignments |
+|--------------|----------------------------------|-------------|
+| 2/15         | Introduction                     | 2/21 midnight: review due for Time, clocks and the ordering of events in a distributed system, L. Lamport, Communications ACM 1978. and Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         |
+|--------------|----------------------------------|             |
+| 2/17         | Distributed system concepts      |          |
+
 
 Suggested Topics for Student Presentations
 ======
