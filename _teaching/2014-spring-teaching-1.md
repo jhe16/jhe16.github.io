@@ -54,8 +54,7 @@ Class Schedule (Tentative)
 | 3/1        |   Distributed system fundamentals                   |        |
 | 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         | 
 | 3/1        |   Remote procedure calls                   |        |
-| 3/3         | Remote procedure calls     | 3/7 midnight: review due for Rowstron and P. Druschel, “Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems“.  Middleware, 2001.  
-3/7 midnight: Paper presentation signup due. Please send an email to the TA to bid three papers in the list below and list your choices in decreasing order. You will be allocated with one paper to present based on the FCFS policy and paper availability.  | 
+| 3/3         | Remote procedure calls     | 3/7 midnight: review due for Rowstron and P. Druschel, “Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems“.  Middleware, 2001.  3/7 midnight: Paper presentation signup due. Please send an email to the TA to bid three papers in the list below and list your choices in decreasing order. You will be allocated with one paper to present based on the FCFS policy and paper availability.  | 
 | 3/8        |   Replications                   |        |
 | 3/10         | Replications     | 3/14 midnight: review due for Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, and Hari Balakrishnan, “Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications“, Proc. of SIGCOMM, 2001.         | 
 | 3/15        |   Peer-to-Peer systems                  |        |
