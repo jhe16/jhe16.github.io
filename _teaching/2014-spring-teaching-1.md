@@ -47,9 +47,28 @@ Class Schedule (Tentative)
 
 | Date         | Topic                            | Assignments |
 |--------------|----------------------------------|-------------|
-| 2/15         | Introduction                     | 2/21 midnight: review due for Time, clocks and the ordering of events in a distributed system, L. Lamport, Communications ACM 1978. and Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         |
-|--------------|----------------------------------|             |
-| 2/17         | Distributed system concepts      |          |
+| 2/15         | Introduction                     |         |
+| 2/17         | Distributed system concepts      | 2/21 midnight: review due for Time, clocks and the ordering of events in a distributed system, L. Lamport, Communications ACM 1978.          |         
+| 2/22         |   Distributed system fundamentals                   |        |
+| 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         | 
+| 3/1        |   Distributed system fundamentals                   |        |
+| 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         | 
+| 3/1        |   Remote procedure calls                   |        |
+| 3/3         | Remote procedure calls     | 3/7 midnight: review due for Rowstron and P. Druschel, “Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems“.  Middleware, 2001.  3/7 midnight: Paper presentation signup due. Please send an email to the TA to bid three papers in the list below and list your choices in decreasing order. You will be allocated with one paper to present based on the FCFS policy and paper availability.  | 
+| 3/8        |   Replications                   |        |
+| 3/10         | Replications     | 3/14 midnight: review due for Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, and Hari Balakrishnan, “Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications“, Proc. of SIGCOMM, 2001.         | 
+| 3/15        |   Peer-to-Peer systems                  |        |
+| 3/17        | Peer-to-Peer Systems     | 3/21 midnight: project proposal due.         | 
+| 3/22        |   Project proposal presentations                  |        |
+| 3/24        | Fault Tolerance     | 3/28 midnight: review due for I. Cohen and S. Zhang and M. Goldszmidt and J. Symons and T. Kelly and A. Fox, Capturing, indexing, clustering, and retrieving system history, Proc. of SOSP, 2005.       | 
+| 3/29        |   Data-intensive computing                 |        |
+| 3/31        | Data-intensive computing     | 4/4 midnight: review due for Daniel Dean, Hiep Nguyen, Xiaohui Gu, Hui Zhang, Junghwan Rhee, Nipun Arora, Geoff Jiang, PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures, Proc. of SOCC 2014.       | 
+| 4/5        |   Virtualization and cloud computing                 |        |
+| 4/7        | Virtualization and cloud computing     | 4/11 midnight: review due for Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.       | 
+| 4/12        |   Distributed file systems                 |        |
+| 4/14        | Distributed file systems     | 4/18 midnight: review due for Hiep Nguyen, Zhiming Shen, Xiaohui Gu, Sethuraman Subbiah, John Wilkes, AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service, Proc. of USENIX International Conference on Autonomic Computing (ICAC), San Jose, CA, June, 2013.  | 
+
+
 
 
 Suggested Topics for Student Presentations
@@ -63,13 +82,12 @@ Suggested Topics for Student Presentations
 7. Philipp Moritz et al., Ray: A Distributed Framework for Emerging AI Applications, Proc. of OSDI 2018. 
 8. Yunseong Lee, et al., M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, Discretized Streams: Fault-Tolerant Streaming Computation at Scale, Proc. of SOSP 2013. 
 9. Shoumik Palkar and Matei Zaharia, Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations, Proc. of SOSP 2019. 
-10. Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.  
-11. Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, and John Wilkes, CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems, Proc. of ACM SOCC 2011. 
-12. Guiseppe DeCandia et al, Dynamo: Amazon’s Highly Available Key-Value Store, Proc. of SOSP 2007. 
-13. James C. Corbett et al., Spanner: Google’s Globally-Distributed Database, Proc. of OSDI 2012. 
-14. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
-15. Antonis Papadimitriou et al., Big Data Analytics over Encrypted Datasets with Seabed , Proc. of OSDI 2016. 
-16. Yan Zhai et al., CQSTR: Securing Cross-Tenant Applications with Cloud Containers, Proc. of SOCC 2016. 
+10. Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, and John Wilkes, CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems, Proc. of ACM SOCC 2011. 
+11. Guiseppe DeCandia et al, Dynamo: Amazon’s Highly Available Key-Value Store, Proc. of SOSP 2007. 
+12. James C. Corbett et al., Spanner: Google’s Globally-Distributed Database, Proc. of OSDI 2012. 
+13. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
+14. Antonis Papadimitriou et al., Big Data Analytics over Encrypted Datasets with Seabed , Proc. of OSDI 2016. 
+15. Yan Zhai et al., CQSTR: Securing Cross-Tenant Applications with Cloud Containers, Proc. of SOCC 2016. 
 
 Academic Integrity
 ======
