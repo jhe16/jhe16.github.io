@@ -37,6 +37,7 @@ Suggested topics:
 1. Virtual Machine Management in Distributed Computing Environments
 2. System Monitoring & Behavior Learning for Anomaly Detection
 3. Distributed System Diagnosis Using Console Logs or Traces
+
 Course project environments: HPC cluster, Amazon AWS, Google cloud
 
 Both project proposal and final report should follow typical paper requirements using [ACM Double-Column Paper format](https://www.acm.org/publications/authors/submissions). The project proposal should include abstract, introduction, proposed approaches, and related work. The final project report should include a full paper content including abstract, introduction, design and algorithms, experiment evaluation, related work, and conclusion. The expected project report's length is 6 pages excluding references. We will organize a mini-conference for the students to present their project work. Three best papers will be selected during the mini-conference.
