@@ -52,33 +52,33 @@ Class Schedule (Tentative)
 | 2/22         |   Distributed system fundamentals                   |        |
 | 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         | 
 | 3/1        |   Distributed system fundamentals                   |        |
-| 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for Rowstron and P. Druschel, “Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems“.  Middleware, 2001.         | 
-| 3/1        |   Remote procedure calls                   |        |
-| 3/3         | Remote procedure calls     | 3/7 midnight: review due for Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, and Hari Balakrishnan, “Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications“, Proc. of SIGCOMM, 2001.  3/7 midnight: Paper presentation signup due. Please send an email to the TA to bid three papers in the list below and list your choices in decreasing order. You will be allocated with one paper to present based on the FCFS policy and paper availability.  | 
-| 3/8        |   Replications                   |        |
-| 3/10         | Replications     | 3/14 midnight: review due for I. Cohen and M. Goldszmidt and T. Kelly and J. Symons and J. S. Chase, Correlating Instrumentation Data to System States: A Building Block for Automated Diagnosis and Control, Proc. of OSDI, 2004.         | 
-| 3/15        |   Peer-to-Peer systems                  |        |
-| 3/17        | Peer-to-Peer Systems     | 3/21 midnight: project proposal due.         | 
-| 3/22        |   Project proposal presentations                  |        |
-| 3/24        | Fault Tolerance     | 3/28 midnight: review due for I. Cohen and S. Zhang and M. Goldszmidt and J. Symons and T. Kelly and A. Fox, Capturing, indexing, clustering, and retrieving system history, Proc. of SOSP, 2005.       | 
-| 3/29        |   Data-intensive computing                 |        |
-| 3/31        | Data-intensive computing     | 4/4 midnight: review due for Daniel Dean, Hiep Nguyen, Xiaohui Gu, Hui Zhang, Junghwan Rhee, Nipun Arora, Geoff Jiang, PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures, Proc. of SOCC 2014.       | 
-| 4/5        |   Virtualization and cloud computing                 |        |
-| 4/7        | Virtualization and cloud computing     | 4/11 midnight: review due for Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.       | 
-| 4/12        |   Distributed file systems                 |        |
-| 4/14        | Distributed file systems     | 4/18 midnight: review due for Hiep Nguyen, Zhiming Shen, Xiaohui Gu, Sethuraman Subbiah, John Wilkes, AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service, Proc. of USENIX International Conference on Autonomic Computing (ICAC), San Jose, CA, June, 2013.  | 
-| 4/19        |   Project mid-review presentations                |        |
-| 4/21        | System research methodology     | No paper reading assigned. You should spend time on your term projects.  | 
-| 4/26        |   Student paper presentation                 |        |
-| 4/28        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
+| 2/3         | Distributed system fundamentals     | 3/7 midnight: review due for Rowstron and P. Druschel, “Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems“.  Middleware, 2001.         | 
+| 3/8        |   Remote procedure calls                   |        |
+| 3/10         | Remote procedure calls     | 3/14 midnight: review due for Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, and Hari Balakrishnan, “Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications“, Proc. of SIGCOMM, 2001.  3/7 midnight: Paper presentation signup due. Please send an email to the TA to bid three papers in the list below and list your choices in decreasing order. You will be allocated with one paper to present based on the FCFS policy and paper availability.  | 
+| 3/15        |   Replications                   |        |
+| 3/17         | Replications     | 3/21 midnight: review due for I. Cohen and M. Goldszmidt and T. Kelly and J. Symons and J. S. Chase, Correlating Instrumentation Data to System States: A Building Block for Automated Diagnosis and Control, Proc. of OSDI, 2004.         | 
+| 3/22        |   Peer-to-Peer systems                  |        |
+| 3/24        | Peer-to-Peer Systems     | 3/28 midnight: project proposal due.         | 
+| 3/29        |   Project proposal presentations                  |        |
+| 3/31        | Fault Tolerance     | 4/4 midnight: review due for I. Cohen and S. Zhang and M. Goldszmidt and J. Symons and T. Kelly and A. Fox, Capturing, indexing, clustering, and retrieving system history, Proc. of SOSP, 2005.       | 
+| 4/5        |   Data-intensive computing                 |        |
+| 4/7        | Data-intensive computing     | 4/11 midnight: review due for Daniel Dean, Hiep Nguyen, Xiaohui Gu, Hui Zhang, Junghwan Rhee, Nipun Arora, Geoff Jiang, PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures, Proc. of SOCC 2014.       | 
+| 4/12        |   Virtualization and cloud computing                 |        |
+| 4/14        | Virtualization and cloud computing     | 4/18 midnight: review due for Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.       | 
+| 4/19        |   Distributed file systems                 |        |
+| 4/21        | Distributed file systems     | 4/25 midnight: review due for Hiep Nguyen, Zhiming Shen, Xiaohui Gu, Sethuraman Subbiah, John Wilkes, AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service, Proc. of USENIX International Conference on Autonomic Computing (ICAC), San Jose, CA, June, 2013.  | 
+| 4/26        |   Project mid-review presentations                |        |
+| 4/28        | System research methodology     | No paper reading assigned. You should spend time on your term projects.  | 
 | 5/3        |   Student paper presentation                 |        |
 | 5/5        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
 | 5/10        |   Student paper presentation                 |        |
 | 5/12        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
 | 5/17        |   Student paper presentation                 |        |
-| 5/19       | Project demo    | No paper reading assigned. You should spend time on your term projects.  | 
-| 5/24        |   Final project presentation                |        |
-| 5/26       |  Final project presentation    | 5/30 midnight: final project report due, project source code and document due. Your project source code and document submission should be a single zip file. The zip file should include your system source code including all other dependent packages, the experimental subjects used in the project report, instructions on how to set up and use the system to reproduce the experimental results, and other documents that help others understand your tool and source code.  | 
+| 5/19        | Student paper presentation     | No paper reading assigned. You should spend time on your term projects.  | 
+| 5/24        |   Student paper presentation                 |        |
+| 5/26       | Project demo    | No paper reading assigned. You should spend time on your term projects.  | 
+| 5/31        |   Final project presentation                |        |
+| 6/2       |  Final project presentation    | 6/6 midnight: final project report due, project source code and document due. Your project source code and document submission should be a single zip file. The zip file should include your system source code including all other dependent packages, the experimental subjects used in the project report, instructions on how to set up and use the system to reproduce the experimental results, and other documents that help others understand your tool and source code.  | 
 
 
 
