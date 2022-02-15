@@ -24,7 +24,7 @@ Calculated by the time recorded in the assignment emails received to the instruc
 
 Textbooks
 ======
-1. Distributed systems principles and paradigms, Andrew S. Tanenbaum and Maarten van Steen, ISBN: 0-13-239227-5, Pearson, 2007. \[[link](https://www.distributed-systems.net/index.php/books/ds3/ds3-ebook/)\]
+1. Distributed systems principles and paradigms, Andrew S. Tanenbaum and Maarten van Steen, ISBN: 0-13-239227-5, Pearson, 2007. \[[online version](https://www.distributed-systems.net/index.php/books/ds3/ds3-ebook/)\]
 2. Distributed Systems: Concepts and Design, George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair, ISBN: 978-0132143011, Pearson, 2011.
 
 Paper Review Guidelines
