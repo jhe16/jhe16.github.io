@@ -48,9 +48,9 @@ Class Schedule (Tentative)
 | Date         | Topic                            | Assignments |
 |--------------|----------------------------------|-------------|
 | 2/15         | Introduction                     |         |
-| 2/17         | Distributed system concepts      | 2/21 midnight: review due for Time, clocks and the ordering of events in a distributed system, L. Lamport, Communications ACM 1978.          |         
+| 2/17         | Distributed system concepts      | 2/21 midnight: review due for [Time, clocks and the ordering of events in a distributed system, L. Lamport](http://lamport.azurewebsites.net/pubs/time-clocks.pdf), Communications ACM 1978.          |         
 | 2/22         |   Distributed system fundamentals                   |        |
-| 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for Distributed snapshots: determining global states of distributed systems, Chandy and Lamport, ACM TOCS 1985.         | 
+| 2/24         | Distributed system fundamentals     | 2/28 midnight: review due for [Distributed snapshots: determining global states of distributed systems, Chandy and Lamport](https://dl.acm.org/doi/10.1145/214451.214456), ACM TOCS 1985.         | 
 | 3/1        |   Distributed system fundamentals                   |        |
 | 2/3         | Distributed system fundamentals     | 3/7 midnight: review due for Rowstron and P. Druschel, “Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems“.  Middleware, 2001.         | 
 | 3/8        |   Remote procedure calls                   |        |
