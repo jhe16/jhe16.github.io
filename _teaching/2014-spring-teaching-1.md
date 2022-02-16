@@ -29,7 +29,7 @@ Textbooks
 
 Paper Review Guidelines
 ======
-Provide a paragraph of summary about the paper, a paragraph of 2-3 strong points of the paper (i.e., why the paper should be accepted), a paragraph of 2-3 weak points of the paper (i.e., why the paper should be rejected),  brainstorming ideas for developing new research ideas related to the work described in the paper.
+Provide a paragraph of summary about the paper (the summary contains the research problem, the state-of-art, the contributions, system architecture or design, and the evaluation result), a paragraph of 2-3 strong points of the paper (i.e., why the paper should be accepted), a paragraph of 2-3 weak points of the paper (i.e., why the paper should be rejected),  brainstorming ideas for developing new research ideas related to the work described in the paper.
 
 Projects
 ======
