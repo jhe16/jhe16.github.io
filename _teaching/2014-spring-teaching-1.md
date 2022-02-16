@@ -86,23 +86,24 @@ Suggested Topics for Student Presentations
 ======
 1. Guangpu Li, Shan Lu, Madanlal Musuvathi, Suman Nath, Rohan Padhye, Efficient Scalable Thread-Safety-Violation Detection, Proc. of SOSP 2019. 
 2. Yongle Zhang, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure, Proc. of SOSP 2019. 
-3. Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and Peipei Wang, DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems, Proc. of ACM Symposium on Cloud Computing (SOCC), Carlsbad, CA, October, 2018. 
-4. Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, FChain: Toward Black-box Online Fault Localization for Cloud Systems, Proc. of ICDCS 2013. 
-5. Tuomas Pelkonen Scott Franklin Justin Teller Paul Cavallaro Qi Huang Justin Meza Kaushik Veeraraghavan, Gorilla: A Fast, Scalable, In-Memory Time Series Database, Proc. of VLDB 2015. 
-6. Benjamin H. Sigelman, Luiz Andre Barroso, Mike Burrows, Pat Stephenson, ´ Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag, Dapper, a Large-Scale Distributed Systems Tracing Infrastructure, Google Technical Report. 
-7. Philipp Moritz et al., Ray: A Distributed Framework for Emerging AI Applications, Proc. of OSDI 2018. 
-8. Yunseong Lee, et al., M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, Discretized Streams: Fault-Tolerant Streaming Computation at Scale, Proc. of SOSP 2013. 
-9. Shoumik Palkar and Matei Zaharia, Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations, Proc. of SOSP 2019. 
-10. Guiseppe DeCandia et al, Dynamo: Amazon’s Highly Available Key-Value Store, Proc. of SOSP 2007. 
-11. James C. Corbett et al., Spanner: Google’s Globally-Distributed Database, Proc. of OSDI 2012. 
-12. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
-13. Antonis Papadimitriou et al., Big Data Analytics over Encrypted Datasets with Seabed , Proc. of OSDI 2016. 
-14. Yan Zhai et al., CQSTR: Securing Cross-Tenant Applications with Cloud Containers, Proc. of SOCC 2016. 
-15. Yigong Hu, Gongqi Huang, and Peng Huang, Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution, Proc. of OSDI 2020.
-16. S. Levy et al., Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions, Proc. of OSDI 2020.
-17. Testing Configuration Changes in Context to Prevent Production Failures, Xudong Sun, Runxiang Cheng, Jianyan Chen, and Elaine Ang, Owolabi Legunsen, Tianyin Xu, Proc. Of OSDI 2020.
-18. Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing, Youngseok Yang, Taesoo Kim, Byung-Gon Chun, Proc. Of OSDI 2021.
-19. Sage: practical and scalable ML-driven performance debugging in microservices, Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
+3. Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and Peipei Wang, [DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf), Proc. of ACM Symposium on Cloud Computing (SOCC), Carlsbad, CA, October, 2018. 
+4. Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, [FChain: Toward Black-box Online Fault Localization for Cloud Systems](http://dance.csc.ncsu.edu/papers/icdcs2013.pdf), Proc. of ICDCS 2013. 
+5. Tuomas Pelkonen Scott Franklin Justin Teller Paul Cavallaro Qi Huang Justin Meza Kaushik Veeraraghavan, [Gorilla: A Fast, Scalable, In-Memory Time Series Database](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf), Proc. of VLDB 2015. 
+6. Benjamin H. Sigelman, Luiz Andre Barroso, Mike Burrows, Pat Stephenson, Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag, [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf), Google Technical Report. 
+7. Philipp Moritz et al., [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf), Proc. of OSDI 2018. 
+8. L. Zheng, et al, [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://www.usenix.org/conference/osdi20/presentation/zheng), Proc of OSDI 2020.
+9. Yunseong Lee, et al., M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, Discretized Streams: Fault-Tolerant Streaming Computation at Scale, Proc. of SOSP 2013. 
+10. Shoumik Palkar and Matei Zaharia, [Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations](https://cs.stanford.edu/~matei/papers/2019/sosp_split_annotations.pdf), Proc. of SOSP 2019. 
+11. Guiseppe DeCandia et al, [Dynamo: Amazon’s Highly Available Key-Value Store](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), Proc. of SOSP 2007. 
+12. James C. Corbett et al., [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf), Proc. of OSDI 2012. 
+13. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
+14. Antonis Papadimitriou et al., [Big Data Analytics over Encrypted Datasets with Seabed](http://www.cis.upenn.edu/~ahae/papers/seabed-osdi2016.pdf), Proc. of OSDI 2016. 
+15. Yan Zhai et al., [CQSTR: Securing Cross-Tenant Applications with Cloud Containers](https://pages.cs.wisc.edu/~swift/papers/socc16-cqstr.pdf), Proc. of SOCC 2016. 
+16. Yigong Hu, Gongqi Huang, and Peng Huang, [Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution](https://www.usenix.org/conference/osdi20/presentation/hu), Proc. of OSDI 2020.
+17. S. Levy et al., [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy), Proc. of OSDI 2020.
+18. [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/conference/osdi20/presentation/sun), Xudong Sun, Runxiang Cheng, Jianyan Chen, and Elaine Ang, Owolabi Legunsen, Tianyin Xu, Proc. Of OSDI 2020.
+19. [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/conference/osdi21/presentation/yang), Youngseok Yang, Taesoo Kim, Byung-Gon Chun, Proc. Of OSDI 2021.
+20. [Sage: practical and scalable ML-driven performance debugging in microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700), Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
 
 Academic Integrity
 ======
