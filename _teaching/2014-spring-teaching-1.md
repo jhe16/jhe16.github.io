@@ -66,7 +66,7 @@ Class Schedule (Tentative)
 | 4/12        |   Virtualization and cloud computing                 |        |
 | 4/14        | Virtualization and cloud computing     | 4/18 midnight: review due for Martín Abadi et al., TensorFlow: A System for Large-Scale Machine Learning, Proc. of OSDI 2016.       | 
 | 4/19        |   Distributed file systems                 |        |
-| 4/21        | Distributed file systems     | 4/25 midnight: review due for Hiep Nguyen, Zhiming Shen, Xiaohui Gu, Sethuraman Subbiah, John Wilkes, AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service, Proc. of USENIX International Conference on Autonomic Computing (ICAC), San Jose, CA, June, 2013.  | 
+| 4/21        | Distributed file systems     | 4/25 midnight: review due for Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, and John Wilkes, CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems, Proc. of ACM SOCC 2011.  | 
 | 4/26        |   Project mid-review presentations                |        |
 | 4/28        | System research methodology     | No paper reading assigned. You should spend time on your term projects.  | 
 | 5/3        |   Student paper presentation                 |        |
@@ -93,12 +93,16 @@ Suggested Topics for Student Presentations
 7. Philipp Moritz et al., Ray: A Distributed Framework for Emerging AI Applications, Proc. of OSDI 2018. 
 8. Yunseong Lee, et al., M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, Discretized Streams: Fault-Tolerant Streaming Computation at Scale, Proc. of SOSP 2013. 
 9. Shoumik Palkar and Matei Zaharia, Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations, Proc. of SOSP 2019. 
-10. Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, and John Wilkes, CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems, Proc. of ACM SOCC 2011. 
-11. Guiseppe DeCandia et al, Dynamo: Amazon’s Highly Available Key-Value Store, Proc. of SOSP 2007. 
-12. James C. Corbett et al., Spanner: Google’s Globally-Distributed Database, Proc. of OSDI 2012. 
-13. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
-14. Antonis Papadimitriou et al., Big Data Analytics over Encrypted Datasets with Seabed , Proc. of OSDI 2016. 
-15. Yan Zhai et al., CQSTR: Securing Cross-Tenant Applications with Cloud Containers, Proc. of SOCC 2016. 
+10. Guiseppe DeCandia et al, Dynamo: Amazon’s Highly Available Key-Value Store, Proc. of SOSP 2007. 
+11. James C. Corbett et al., Spanner: Google’s Globally-Distributed Database, Proc. of OSDI 2012. 
+12. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data, Proc. of OSDI 2016. 
+13. Antonis Papadimitriou et al., Big Data Analytics over Encrypted Datasets with Seabed , Proc. of OSDI 2016. 
+14. Yan Zhai et al., CQSTR: Securing Cross-Tenant Applications with Cloud Containers, Proc. of SOCC 2016. 
+15. Yigong Hu, Gongqi Huang, and Peng Huang, Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution, Proc. of OSDI 2020.
+16. S. Levy et al., Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions, Proc. of OSDI 2020.
+17. Testing Configuration Changes in Context to Prevent Production Failures, Xudong Sun, Runxiang Cheng, Jianyan Chen, and Elaine Ang, Owolabi Legunsen, Tianyin Xu, Proc. Of OSDI 2020.
+18. Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing, Youngseok Yang, Taesoo Kim, Byung-Gon Chun, Proc. Of OSDI 2021.
+19. Sage: practical and scalable ML-driven performance debugging in microservices, Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
 
 Academic Integrity
 ======
