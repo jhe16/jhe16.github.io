@@ -37,6 +37,7 @@ Suggested topics:
 1. Virtual Machine Management in Distributed Computing Environments
 2. System Monitoring & Behavior Learning for Anomaly Detection
 3. Distributed System Diagnosis Using Console Logs or Traces
+4. Cloud System Security
 
 Course project environments: HPC cluster, Amazon AWS, Google cloud
 
@@ -101,7 +102,7 @@ Suggested Topics for Student Presentations
 15. Yan Zhai et al., [CQSTR: Securing Cross-Tenant Applications with Cloud Containers](https://pages.cs.wisc.edu/~swift/papers/socc16-cqstr.pdf), Proc. of SOCC 2016. 
 16. Yigong Hu, Gongqi Huang, and Peng Huang, [Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution](https://www.usenix.org/conference/osdi20/presentation/hu), Proc. of OSDI 2020.
 17. S. Levy et al., [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy), Proc. of OSDI 2020.
-18. [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/conference/osdi20/presentation/sun), Xudong Sun, Runxiang Cheng, Jianyan Chen, and Elaine Ang, Owolabi Legunsen, Tianyin Xu, Proc. Of OSDI 2020.
+18. [Testing Configuration Changes in Context to Prevent Production Failures](https://www.usenix.org/conference/osdi20/presentation/sun), Xudong Sun, Runxiang Cheng, Jianyan Chen, and Elaine Ang, Owolabi Legunsen, Tianyin Xu, Proc. Of OSDI 2020.    -- Zhichao Zhou
 19. [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/conference/osdi21/presentation/yang), Youngseok Yang, Taesoo Kim, Byung-Gon Chun, Proc. Of OSDI 2021.
 20. [Sage: practical and scalable ML-driven performance debugging in microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700), Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
 
