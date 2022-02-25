@@ -96,7 +96,7 @@ Suggested Topics for Student Presentations
 9. M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](https://people.csail.mit.edu/matei/papers/2013/sosp_spark_streaming.pdf), Proc. of SOSP 2013. 
 10. Shoumik Palkar and Matei Zaharia, [Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations](https://cs.stanford.edu/~matei/papers/2019/sosp_split_annotations.pdf), Proc. of SOSP 2019. 
 11. Guiseppe DeCandia et al, [Dynamo: Amazon’s Highly Available Key-Value Store](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), Proc. of SOSP 2007. -- Kefan Cao
-12. James C. Corbett et al., [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf), Proc. of OSDI 2012. 
+12. James C. Corbett et al., [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf), Proc. of OSDI 2012.  -- Xinzhu Zhong
 13. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, [Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf), Proc. of OSDI 2016. 
 14. Antonis Papadimitriou et al., [Big Data Analytics over Encrypted Datasets with Seabed](http://www.cis.upenn.edu/~ahae/papers/seabed-osdi2016.pdf), Proc. of OSDI 2016. 
 15. Yan Zhai et al., [CQSTR: Securing Cross-Tenant Applications with Cloud Containers](https://pages.cs.wisc.edu/~swift/papers/socc16-cqstr.pdf), Proc. of SOCC 2016. 
