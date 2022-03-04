@@ -20,7 +20,7 @@ Proc. of the 44th International Conference on Software Engineering (<b>ICSE</b>)
 
 \[P10\] [Toward Automatic Detection of Cloud Server Security Vulnerabilities]()<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, Xiaohui Gu, and <b>Jingzhu He</b>. <br/>
-Proc. of 9th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>poster session</i>, 2022.
+Proc. of 9th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>Poster Session</i>, 2022.
 <br/>
 <br/>
 
