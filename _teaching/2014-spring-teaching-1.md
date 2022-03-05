@@ -106,6 +106,10 @@ Suggested Topics for Student Presentations
 19. [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/conference/osdi21/presentation/yang), Youngseok Yang, Taesoo Kim, Byung-Gon Chun, Proc. Of OSDI 2021.
 20. [Sage: practical and scalable ML-driven performance debugging in microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700), Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
 
+Students' Suggested Papers
+======
+21. [Hoplite: Efficient and Fault-Tolerant Collective Communication for Task-Based Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3452296.3472897), Siyuan Zhuang et al., Proc. of SIGCOMM 2021.  -- Yiwei Yang
+
 Academic Integrity
 ======
 The university provides a detailed policy on academic integrity. 
