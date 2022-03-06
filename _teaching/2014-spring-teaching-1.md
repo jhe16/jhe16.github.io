@@ -62,7 +62,7 @@ Class Schedule (Tentative)
 | 3/24        | Peer-to-Peer Systems     | 3/28 midnight: project proposal due.         | 
 | 3/29        |   Project proposal presentations                  |        |
 | 3/31        | Fault Tolerance     | 4/4 midnight: review due for I. Cohen and S. Zhang and M. Goldszmidt and J. Symons and T. Kelly and A. Fox, [Capturing, indexing, clustering, and retrieving system history](http://www.ifp.illinois.edu/~iracohen/publications/Cohen_etalSOSP2005.pdf), Proc. of SOSP, 2005.       | 
-| 4/5        |   Data-intensive computing                 |        |
+| 4/5        |   No class                 |        |
 | 4/7        | Data-intensive computing     | 4/11 midnight: review due for Daniel Dean, Hiep Nguyen, Xiaohui Gu, Hui Zhang, Junghwan Rhee, Nipun Arora, Geoff Jiang, [PerfScope: Practical Online Server Performance Bug Inference in Production Cloud Computing Infrastructures](http://dance.csc.ncsu.edu/papers/socc14.pdf), Proc. of SOCC 2014.       | 
 | 4/12        |   Virtualization and cloud computing                 |        |
 | 4/14        | Virtualization and cloud computing     | 4/18 midnight: review due for Martín Abadi et al., [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf), Proc. of OSDI 2016.       | 
