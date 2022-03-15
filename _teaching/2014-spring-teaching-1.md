@@ -68,7 +68,11 @@ References:
 
 References:
 
-(1) "
+(1) "[CQSTR: Securing Cross-Tenant Applications with Cloud Containers](https://pages.cs.wisc.edu/~swift/papers/socc16-cqstr.pdf)", Yan Zhai et al., Proc. of SOCC 2016. 
+
+(2) "[Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf)", Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, Proc. of OSDI 2016. 
+
+(3) "[A Study of Security Vulnerabilities on Docker Hub](http://dance.csc.ncsu.edu/papers/codaspy17.pdf)", Rui Shu, Xiaohui Gu, William Enck, Proc. of CODASPY 2017. 
 
 Course project environments: HPC cluster, Amazon AWS, Google cloud
 
