@@ -35,8 +35,7 @@ Projects
 ======
 Suggested topics:
 
-Virtual Machine Management in Distributed Computing Environments
-==
+1. Virtual Machine Management in Distributed Computing Environments
 
 References:
 
