@@ -35,7 +35,7 @@ Projects
 ======
 Suggested topics:
 
-1. Virtual Machine Management in Distributed Computing Environments
+Virtual Machine Management in Distributed Computing Environments
 
 References:
 
@@ -45,7 +45,7 @@ References:
 
 (3) "[BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud](https://dl.acm.org/doi/pdf/10.1145/3357223.3362706)", Ataollah Fatahi Baarzi, Timothy Zhu, Bhuvan Urgaonkar, Proc. of SOCC, 2019.
 
-2. System Monitoring & Behavior Learning for Anomaly Detection
+System Monitoring & Behavior Learning for Anomaly Detection
 
 References: 
 
@@ -53,7 +53,7 @@ References:
 
 (2) "[FChain: Toward Black-box Online Fault Localization for Cloud Systems](http://dance.csc.ncsu.edu/papers/icdcs2013.pdf)", Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, Proc. of ICDCS, 2013.
 
-3. Distributed System Diagnosis Using Console Logs or Traces
+Distributed System Diagnosis Using Console Logs or Traces
 
 References:
 
@@ -65,7 +65,7 @@ References:
 
 (4) "[Sage: practical and scalable ML-driven performance debugging in microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)", Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
 
-4. Cloud System Security
+Cloud System Security
 
 References:
 
