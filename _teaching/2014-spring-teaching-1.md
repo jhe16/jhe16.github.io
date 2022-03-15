@@ -35,15 +35,20 @@ Projects
 ======
 Suggested topics:
 1. Virtual Machine Management in Distributed Computing Environments
+
 References:
 (1) “[CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems](https://dl.acm.org/doi/10.1145/2038916.2038921)”, Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, John Wilkes, Proc. of SOCC, 2011.
 (2) "[Arrow: Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8416333)", Chin-Jung Hsu, Vivek Nair, Vincent W. Freeh, Tim Menzies, Proc. of ICDCS, 2018.
 (3) "[BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud](https://dl.acm.org/doi/pdf/10.1145/3357223.3362706)", Ataollah Fatahi Baarzi, Timothy Zhu, Bhuvan Urgaonkar, Proc. of SOCC, 2019.
+
 2. System Monitoring & Behavior Learning for Anomaly Detection
+
 References: 
 (1) "[UBL: Unsupervised Behavior Learning for Predicting Performance Anomalies in Virtualized Cloud Systems](http://dance.csc.ncsu.edu/papers/UBL.pdf)", Daniel J. Dean, Hiep Nguyen, Xiaohui Gu, Proc. of ICAC, 2012.
 (2) "[FChain: Toward Black-box Online Fault Localization for Cloud Systems](http://dance.csc.ncsu.edu/papers/icdcs2013.pdf)", Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, Proc. of ICDCS, 2013.
+
 3. Distributed System Diagnosis Using Console Logs or Traces
+
 References:
 
 4. Cloud System Security
