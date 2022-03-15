@@ -56,7 +56,19 @@ References:
 
 References:
 
+(1) "[DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf)", Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, Peipei Wang, Proc. of SOCC, 2018.
+
+(2) "[HangFix: Automatically Fixing Software Hang Bugs for Production Cloud Systems](http://dance.csc.ncsu.edu/papers/SOCC20.pdf)", Jingzhu He, Ting Dai, Xiaohui Gu, Guoliang Jin, Proc. of SOCC, 2020.
+
+(3) "[Detecting Large-Scale System Problems by Mining Console Logs](https://www.sigops.org/s/conferences/sosp/2009/papers/xu-sosp09.pdf)", Wei Xu, Ling Huang, Armando Fox, David Patterson, Michael I. Jordan, Proc. of SOSP, 2009.
+
+(4) "[Sage: practical and scalable ML-driven performance debugging in microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)", Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
+
 4. Cloud System Security
+
+References:
+
+(1) "
 
 Course project environments: HPC cluster, Amazon AWS, Google cloud
 
