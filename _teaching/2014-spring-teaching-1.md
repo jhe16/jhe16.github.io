@@ -39,7 +39,6 @@ Suggested topics:
 References:
 
 (1) “[CloudScale: Elastic Resource Scaling for Multi-Tenant Cloud Systems](https://dl.acm.org/doi/10.1145/2038916.2038921)”, Zhiming Shen, Sethuraman Subbiah, Xiaohui Gu, John Wilkes, Proc. of SOCC, 2011.
-
 (2) "[Arrow: Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8416333)", Chin-Jung Hsu, Vivek Nair, Vincent W. Freeh, Tim Menzies, Proc. of ICDCS, 2018.
 
 (3) "[BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud](https://dl.acm.org/doi/pdf/10.1145/3357223.3362706)", Ataollah Fatahi Baarzi, Timothy Zhu, Bhuvan Urgaonkar, Proc. of SOCC, 2019.
