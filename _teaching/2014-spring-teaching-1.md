@@ -35,7 +35,7 @@ Projects
 ======
 Suggested topics:
 
-Virtual Machine Management in Distributed Computing Environments
+<b>Virtual Machine Management in Distributed Computing Environments</b>
 
 References:
 
@@ -45,7 +45,7 @@ References:
 
 (3) "[BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud](https://dl.acm.org/doi/pdf/10.1145/3357223.3362706)", Ataollah Fatahi Baarzi, Timothy Zhu, Bhuvan Urgaonkar, Proc. of SOCC, 2019.
 
-System Monitoring & Behavior Learning for Anomaly Detection
+<b>System Monitoring & Behavior Learning for Anomaly Detection</b>
 
 References: 
 
@@ -53,7 +53,7 @@ References:
 
 (2) "[FChain: Toward Black-box Online Fault Localization for Cloud Systems](http://dance.csc.ncsu.edu/papers/icdcs2013.pdf)", Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, Proc. of ICDCS, 2013.
 
-Distributed System Diagnosis Using Console Logs or Traces
+<b>Distributed System Diagnosis Using Console Logs or Traces</b>
 
 References:
 
@@ -65,7 +65,7 @@ References:
 
 (4) "[Sage: practical and scalable ML-driven performance debugging in microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)", Yu Gan, Mingyu Liang, Sundar Dev, David Lo, Christina Delimitrou, Proc. Of ASPLOS 2021.
 
-Cloud System Security
+<b>Cloud System Security</b>
 
 References:
 
@@ -121,7 +121,7 @@ Class Schedule (Tentative)
 
 Suggested Topics for Student Presentations
 ======
-1. Guangpu Li, Shan Lu, Madanlal Musuvathi, Suman Nath, Rohan Padhye, [Efficient Scalable Thread-Safety-Violation Detection](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf), Proc. of SOSP 2019. -- Jiwei Wang
+1. Guangpu Li, Shan Lu, Madanlal Musuvathi, Suman Nath, Rohan Padhye, [Efficient Scalable Thread-Safety-Violation Detection](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/sosp19-final193.pdf), Proc. of SOSP 2019. <b>-- Jiwei Wang</b>
 2. Yongle Zhang, Kirk Rodrigues, Yu Luo, Michael Stumm, Ding Yuan, [The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure](https://dl.acm.org/doi/pdf/10.1145/3341301.3359650), Proc. of SOSP 2019. 
 3. Ting Dai, Jingzhu He, Xiaohui Gu, Shan Lu, and Peipei Wang, [DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/SOCC18.pdf), Proc. of ACM Symposium on Cloud Computing (SOCC), Carlsbad, CA, October, 2018. -- Junhao Yang
 4. Hiep Nguyen, Zhiming Shen, Yongmin Tan, Xiaohui Gu, [FChain: Toward Black-box Online Fault Localization for Cloud Systems](http://dance.csc.ncsu.edu/papers/icdcs2013.pdf), Proc. of ICDCS 2013. 
