@@ -130,7 +130,7 @@ Suggested Topics for Student Presentations
 7. Philipp Moritz et al., [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf), Proc. of OSDI 2018. <b>-- Yining Zhang</b>
 8. L. Zheng, et al, [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://www.usenix.org/conference/osdi20/presentation/zheng), Proc of OSDI 2020.
 9. M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](https://people.csail.mit.edu/matei/papers/2013/sosp_spark_streaming.pdf), Proc. of SOSP 2013. 
-10. Shoumik Palkar and Matei Zaharia, [Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations](https://cs.stanford.edu/~matei/papers/2019/sosp_split_annotations.pdf), Proc. of SOSP 2019. 
+10. Shoumik Palkar and Matei Zaharia, [Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations](https://cs.stanford.edu/~matei/papers/2019/sosp_split_annotations.pdf), Proc. of SOSP 2019. <b>-- Chongnan Ye</b>
 11. Guiseppe DeCandia et al, [Dynamo: Amazon’s Highly Available Key-Value Store](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html), Proc. of SOSP 2007. <b>-- Kefan Cao</b>
 12. James C. Corbett et al., [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf), Proc. of OSDI 2012.  <b>-- Xinzhu Zhong</b>
 13. Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel, [Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf), Proc. of OSDI 2016. 
