@@ -145,6 +145,7 @@ Suggested Topics for Student Presentations
 Students' Suggested Papers
 ======
 21. [Hoplite: Efficient and Fault-Tolerant Collective Communication for Task-Based Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3452296.3472897), Siyuan Zhuang et al., Proc. of SIGCOMM 2021.  <b>-- Yiwei Yang</b>
+22. [Gemini: A Computation-Centric Distributed Graph Processing System](https://www.usenix.org/system/files/conference/osdi16/osdi16-zhu.pdf), Xiaowei Zhu et al., Proc. of OSDI 2016.  <b>-- Mengyao Dong</b>
 
 Academic Integrity
 ======
