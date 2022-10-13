@@ -12,13 +12,25 @@ author_profile: true
 # Refereed Publications
 ----
 
+\[C13\] [Understanding Software Security Vulnerabilities in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/IC2E22.pdf)<br/>
+Olufogorehan Tunde-Onadele, Yuhang Lin, Xiaohui Gu, and <b>Jingzhu He</b>. <br/>
+Proc. of the 10th IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2022.
+<br/>
+<br/>
+
+\[C12\] [SHIL: Self-Supervised Hybrid Learning for Security Attack Detection in Containerized Applications](http://dance.csc.ncsu.edu/papers/ACSOS22.pdf)<br/>
+Yuhang Lin, Olufogorehan Tunde-Onadele, Xiaohui Gu, <b>Jingzhu He</b>, and Hugo Latapie. <br/>
+Proc. of the 3rd IEEE International Conference on Autonomic Computing and Self-Organizing Systems (<b>ACSOS</b>), 2022.
+<br/>
+<br/>
+
 \[C11\] [PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis](https://jhe16.github.io/files/ICSE22.pdf) <br/>
 <b>Jingzhu He</b>, Yuhang Lin, Xiaohui Gu, Chin-Chia Michael Yeh, and Zhongfang Zhuang. <br/>
 Proc. of the 44th International Conference on Software Engineering (<b>ICSE</b>), 2022.
 <br/>
 <br/>
 
-\[P10\] [Toward Automatic Detection of Cloud Server Security Vulnerabilities]()<br/>
+\[P10\] [Toward Automatic Detection of Cloud Server Security Vulnerabilities](http://dance.csc.ncsu.edu/papers/HOTSOS22.pdf)<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, Xiaohui Gu, and <b>Jingzhu He</b>. <br/>
 Proc. of 9th Annual Symposium on Hot Topics in the Science of Security Symposium (<b>HotSoS</b>), <i>Poster Session</i>, 2022.
 <br/>
