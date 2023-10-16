@@ -24,7 +24,8 @@ I am looking for self-motivated PhD/MS students. Several Postdoc and RA position
 
 # News
 ----
-
+\[08/2023\] POBO paper is accepted to Performance 2023.
+<br/>
 \[12/2021\] PerfSig paper is accepted to ICSE 2022.
 <br/>
 \[08/2021\] I join ShanghaiTech University as an Assistant Professor!
