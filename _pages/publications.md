@@ -12,6 +12,12 @@ author_profile: true
 # Refereed Publications
 ----
 
+\[C13\] [POBO: Safe and optimal resource management for cloud microservices](https://doi.org/10.1016/j.peva.2023.102376)<br/>
+Hengquan Guo*, Hongchen Cao*, <b>Jingzhu He</b>, Xin Liu, and Yuanming Shi. <em>(* Both are leading authors.)</em> <br/>
+Proc. of the 41st International Symposium on Computer Performance, Modeling, Measurements and Evaluation (<b>Performance</b>), 2023.
+<br/>
+<br/>
+
 \[C13\] [Understanding Software Security Vulnerabilities in Cloud Server Systems](http://dance.csc.ncsu.edu/papers/IC2E22.pdf)<br/>
 Olufogorehan Tunde-Onadele, Yuhang Lin, Xiaohui Gu, and <b>Jingzhu He</b>. <br/>
 Proc. of the 10th IEEE International Conference on Cloud Engineering (<b>IC2E</b>), 2022.
