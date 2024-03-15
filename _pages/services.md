@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * <b>Program Committee</b>
+  * <b>TPC Member</b>: IC2E 2024
   * <b>Shadow PC</b>: MSR 2022, Eurosys 2022
  
 * <b>Reviewer</b>
