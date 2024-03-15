@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* CS130 Operating Systems, Spring 2024
+* CS225 Advanced Distributed Systems, Fall 2023
 * CS225 Advanced Distributed Systems, Spring 2023
 * CS130 Operating Systems, Fall 2022
 * CS225 Advanced Distributed Systems, Spring 2022
