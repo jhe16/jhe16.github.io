@@ -12,6 +12,12 @@ author_profile: true
 # Refereed Publications
 ----
 
+\[J15\] [Coverage Goal Selector for Combining Multiple Criteria in Search-Based Unit Test Generation](https://arxiv.org/pdf/2309.07518.pdf)<br/>
+Zhichao Zhou, Yuming Zhou, Chunrong Fang, Zhenyu Chen, Xiapu Luo, <b>Jingzhu He</b>, and Yutian Tang. <br/>
+IEEE Transactions on Software Engineering (<b>TSE</b>), 2024. (Accepted)
+<br/>
+<br/>
+
 \[C14\] [POBO: Safe and Optimal Resource Management for Cloud Microservices](https://doi.org/10.1016/j.peva.2023.102376)<br/>
 Hengquan Guo\*, Hongchen Cao\*, <b>Jingzhu He</b>, Xin Liu, and Yuanming Shi. <em>(* Both are leading authors.)</em> <br/>
 Proc. of the 41st International Symposium on Computer Performance, Modeling, Measurements and Evaluation (<b>Performance</b>), 2023.
