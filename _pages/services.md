@@ -5,6 +5,9 @@ permalink: /services/
 author_profile: true
 ---
 
+* <b>Organizer</b>
+  * IC2E 2024 social media chair
+  
 * <b>Program Committee</b>
   * <b>TPC Member</b>: IC2E 2024
   * <b>Shadow PC</b>: MSR 2022, Eurosys 2022
