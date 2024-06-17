@@ -12,7 +12,7 @@ author_profile: true
 # Refereed Publications
 ----
 
-\[C17\] [QueueFlower: Orchestrating Microservice Workflows via Dynamic Queue Balancing]()<br/>
+\[C17\] [QueueFlower: Orchestrating Microservice Workflows via Dynamic Queue Balancing](https://jhe16.github.io/files/icws23.pdf)<br/>
 Hongchen Cao\*, Xinrui Liu\*, Hengquan Guo, <b>Jingzhu He</b>, and Xin Liu. <em>(* Both are leading authors.)</em> <br/>
 IEEE International Conference on Web Services (<b>ICWS</b>), <i>short paper</i>, 2024. 
 <br/>
