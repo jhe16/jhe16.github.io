@@ -12,6 +12,18 @@ author_profile: true
 # Refereed Publications
 ----
 
+\[C17\] [QueueFlower: Orchestrating Microservice Workflows via Dynamic Queue Balancing]()<br/>
+Hongchen Cao\*, Xinrui Liu\*, Hengquan Guo, <b>Jingzhu He</b>, and Xin Liu. <em>(* Both are leading authors.)</em> <br/>
+IEEE International Conference on Web Services (<b>ICWS</b>), <i>short paper</i>, 2024. 
+<br/>
+<br/>
+
+\[J16\] [Self-Supervised Machine Learning Framework for Online Container Security Attack Detection]()<br/>
+Olufogorehan Tunde-Onadele, Yuhang Lin, Xiaohui Gu, <b>Jingzhu He</b>, and Hugo Latapie. <br/>
+ACM Transactions on Autonomous and Adaptive Systems (<b>TAAS</b>), 2024. (Accepted)
+<br/>
+<br/>
+
 \[J15\] [Coverage Goal Selector for Combining Multiple Criteria in Search-Based Unit Test Generation](https://arxiv.org/pdf/2309.07518.pdf)<br/>
 Zhichao Zhou, Yuming Zhou, Chunrong Fang, Zhenyu Chen, Xiapu Luo, <b>Jingzhu He</b>, and Yutian Tang. <br/>
 IEEE Transactions on Software Engineering (<b>TSE</b>), 2024. (Accepted)
