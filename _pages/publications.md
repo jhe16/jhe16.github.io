@@ -30,7 +30,7 @@ IEEE Transactions on Software Engineering (<b>TSE</b>), 2024. (Accepted)
 <br/>
 <br/>
 
-\[C14\] [POBO: Safe and Optimal Resource Management for Cloud Microservices](https://doi.org/10.1016/j.peva.2023.102376)<br/>
+\[C14\] [POBO: Safe and Optimal Resource Management for Cloud Microservices](https://jhe16.github.io/files/performance.pdf)<br/>
 Hengquan Guo\*, Hongchen Cao\*, <b>Jingzhu He</b>, Xin Liu, and Yuanming Shi. <em>(* Both are leading authors.)</em> <br/>
 Proc. of the 41st International Symposium on Computer Performance, Modeling, Measurements and Evaluation (<b>Performance</b>), 2023.
 <br/>
