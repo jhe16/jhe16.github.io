@@ -12,6 +12,12 @@ author_profile: true
 # Refereed Publications
 ----
 
+\[C18\] [Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?]()<br/>
+Yuchen Ji, Ting Dai, Yutian Tang, and <b>Jingzhu He</b>. <br/>
+Proc. of ACM Conference on Computer and Communications Security (<b>CCS</b>), <i>Poster</i>, 2024. 
+<br/>
+<br/>
+
 \[C17\] [QueueFlower: Orchestrating Microservice Workflows via Dynamic Queue Balancing](https://jhe16.github.io/files/icws23.pdf)<br/>
 Hongchen Cao\*, Xinrui Liu\*, Hengquan Guo, <b>Jingzhu He</b>, and Xin Liu. <em>(* Both are leading authors.)</em> <br/>
 IEEE International Conference on Web Services (<b>ICWS</b>), <i>short paper</i>, 2024. 
