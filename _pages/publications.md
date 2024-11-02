@@ -12,7 +12,7 @@ author_profile: true
 # Refereed Publications
 ----
 
-\[P18\] [Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?]()<br/>
+\[P18\] Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?<br/>
 Yuchen Ji, Ting Dai, Yutian Tang, and <b>Jingzhu He</b>. <br/>
 Proc. of ACM Conference on Computer and Communications Security (<b>CCS</b>), <i>Poster Session</i>, 2024. 
 <br/>
