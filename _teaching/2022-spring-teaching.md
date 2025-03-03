@@ -2,7 +2,7 @@
 title: "CS225: Advanced Distributed Systems"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching
 venue: "1A-108, SIST, ShanghaiTech University"
 date: 2022-01-01
 location: "City, Country"
