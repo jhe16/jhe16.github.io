@@ -14,7 +14,13 @@ author_profile: true
 
 S: Students are advised by me at ShanghaiTech University.
 
-\[P18\] Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?<br/>
+\[C19\] [Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis](https://arxiv.org/pdf/2502.21026)<br/>
+Yuchen Ji<sup>S</sup>, Ting Dai, Zhichao Zhou<sup>S</sup>, Yutian Tang, and <b>Jingzhu He</b>. <br/>
+Proc. of the ACM on Programming Languages (PACMPL) OOPSLA, (<b>OOPSLA</b>), 2025. 
+<br/>
+<br/>
+
+\[P18\] [Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?](https://dl.acm.org/doi/10.1145/3658644.3691419)<br/>
 Yuchen Ji<sup>S</sup>, Ting Dai, Yutian Tang, and <b>Jingzhu He</b>. <br/>
 Proc. of ACM Conference on Computer and Communications Security (<b>CCS</b>), <i>Poster Session</i>, 2024. 
 <br/>
