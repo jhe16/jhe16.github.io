@@ -16,7 +16,7 @@ S: Students are advised by me at ShanghaiTech University.
 
 \[C19\] [Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis](https://arxiv.org/pdf/2502.21026)<br/>
 Yuchen Ji<sup>S</sup>, Ting Dai, Zhichao Zhou<sup>S</sup>, Yutian Tang, and <b>Jingzhu He</b>. <br/>
-Proc. of the ACM on Programming Languages (PACMPL) OOPSLA, (<b>OOPSLA</b>), 2025. 
+Proc. of the ACM on Programming Languages (PACMPL) OOPSLA (<b>OOPSLA</b>), 2025. 
 <br/>
 <br/>
 
