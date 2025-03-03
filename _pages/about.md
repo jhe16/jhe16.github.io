@@ -24,6 +24,8 @@ I am looking for self-motivated PhD/MS students. Several Postdoc and RA position
 
 # News
 ----
+\[02/2025\] Artemis paper is accepted to OOPSLA 2025.
+<br/>
 \[08/2023\] POBO paper is accepted to Performance 2023.
 <br/>
 \[12/2021\] PerfSig paper is accepted to ICSE 2022.
