@@ -15,13 +15,13 @@ author_profile: true
 S: Students are advised by me at ShanghaiTech University.
 
 \[P18\] Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?<br/>
-Yuchen Ji, Ting Dai, Yutian Tang, and <b>Jingzhu He</b>. <br/>
+Yuchen Ji<sup>S</sup>, Ting Dai, Yutian Tang, and <b>Jingzhu He</b>. <br/>
 Proc. of ACM Conference on Computer and Communications Security (<b>CCS</b>), <i>Poster Session</i>, 2024. 
 <br/>
 <br/>
 
 \[C17\] [QueueFlower: Orchestrating Microservice Workflows via Dynamic Queue Balancing](https://jhe16.github.io/files/icws23.pdf)<br/>
-Hongchen Cao\*, Xinrui Liu\*, Hengquan Guo, <b>Jingzhu He</b>, and Xin Liu. <em>(*: co-first authors)</em> <br/>
+Hongchen Cao\*<sup>S</sup>, Xinrui Liu\*, Hengquan Guo, <b>Jingzhu He</b>, and Xin Liu. <em>(*: co-first authors)</em> <br/>
 IEEE International Conference on Web Services (<b>ICWS</b>), <i>short paper</i>, 2024. 
 <br/>
 <br/>
@@ -39,7 +39,7 @@ IEEE Transactions on Software Engineering (<b>TSE</b>), 2024. (Accepted)
 <br/>
 
 \[C14\] [POBO: Safe and Optimal Resource Management for Cloud Microservices](https://jhe16.github.io/files/performance.pdf)<br/>
-Hengquan Guo\*, Hongchen Cao\*, <b>Jingzhu He</b>, Xin Liu, and Yuanming Shi. <em>(*: co-first authors)</em> <br/>
+Hengquan Guo\*, Hongchen Cao\*<sup>S</sup>, <b>Jingzhu He</b>, Xin Liu, and Yuanming Shi. <em>(*: co-first authors)</em> <br/>
 Proc. of the 41st International Symposium on Computer Performance, Modeling, Measurements and Evaluation (<b>Performance</b>), 2023.
 <br/>
 <br/>
