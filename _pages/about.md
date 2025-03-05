@@ -24,10 +24,10 @@ I am looking for self-motivated PhD/MS students. Several Postdoc and RA position
 
 # News
 ----
-\[02/2025\] Artemis paper is accepted to OOPSLA 2025.
+\[02/2025\] Artemis paper is accepted by OOPSLA 2025.
 <br/>
-\[08/2023\] POBO paper is accepted to Performance 2023.
+\[08/2023\] POBO paper is accepted by Performance 2023.
 <br/>
-\[12/2021\] PerfSig paper is accepted to ICSE 2022.
+\[12/2021\] PerfSig paper is accepted by ICSE 2022.
 <br/>
 \[08/2021\] I join ShanghaiTech University as an Assistant Professor!
