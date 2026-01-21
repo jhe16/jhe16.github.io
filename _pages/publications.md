@@ -14,7 +14,7 @@ author_profile: true
 
 S: Students are advised by me at ShanghaiTech University.
 
-\[C20\] [STaint: Detecting Second-Order Vulnerabilities in PHP Applications with LLM-Assisted Bi-Directional Static Taint Analysis]()<br/>
+\[C20\] [STaint: Detecting Second-Order Vulnerabilities in PHP Applications with LLM-Assisted Bi-Directional Static Taint Analysis](https://jhe16.github.io/files/ASE-NIER25.pdf)<br/>
 Yuchen Ji<sup>S</sup>, Hongchen Cao<sup>S</sup>, and <b>Jingzhu He</b>. <br/>
 Proc. of 40th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results Track (<b>ASE-NIER</b>), 2025. 
 <br/>
