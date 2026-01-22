@@ -14,6 +14,12 @@ author_profile: true
 
 S: Students are advised by me at ShanghaiTech University.
 
+\[C20\] [Themis: Detecting Distributed Concurrency Bugs through RPC-Driven Race-Directed Test Generation and Fuzzing]()<br/>
+Hongchen Cao<sup>S</sup>, <b>Jingzhu He</b>, Ting Dai, and Guoliang Jin. <br/>
+To appear in 23rd USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), 2026. 
+<br/>
+<br/>
+
 \[C20\] [STaint: Detecting Second-Order Vulnerabilities in PHP Applications with LLM-Assisted Bi-Directional Static Taint Analysis](https://jhe16.github.io/files/ASE-NIER25.pdf)<br/>
 Yuchen Ji<sup>S</sup>, Hongchen Cao<sup>S</sup>, and <b>Jingzhu He</b>. <br/>
 Proc. of 40th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results Track (<b>ASE-NIER</b>), 2025. 
