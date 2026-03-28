@@ -24,6 +24,8 @@ I am looking for self-motivated PhD/MS students. Several Postdoc and RA position
 
 # News
 ----
+\[03/2026\] ArrayDiff paper is accepted by FSE 2026.
+<br/>
 \[12/2025\] Themis paper is accepted by NSDI 2026.
 <br/>
 \[02/2025\] Artemis paper is accepted by OOPSLA 2025.
