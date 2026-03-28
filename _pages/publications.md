@@ -36,9 +36,13 @@ Proc. of 40th IEEE/ACM International Conference on Automated Software Engineerin
 <br/>
 <br/>
 
-\[C19\] [Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis](https://arxiv.org/pdf/2502.21026)<br/>
+\[C19\] [Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis](https://dl.acm.org/doi/epdf/10.1145/3720488)<br/>
 Yuchen Ji<sup>S</sup>, Ting Dai, Zhichao Zhou<sup>S</sup>, Yutian Tang, and <b>Jingzhu He</b>. <br/>
-Proc. of the ACM on Programming Languages (PACMPL) OOPSLA (<b>OOPSLA</b>), 2025. 
+Proc. of the ACM on Programming Languages (PACMPL) OOPSLA (<b>OOPSLA</b>), 2025. <br/>
+🎉 Artifact badges: 
+![Available](https://img.shields.io/badge/Artifact-Available-brightgreen)
+![Functional](https://img.shields.io/badge/Artifact-Functional-blue)
+![Reproduced](https://img.shields.io/badge/Artifact-Reproduced-orange)
 <br/>
 <br/>
 
