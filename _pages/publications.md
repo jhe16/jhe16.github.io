@@ -14,9 +14,19 @@ author_profile: true
 
 S: Students are advised by me at ShanghaiTech University.
 
+\[C21\] [LLM-Assisted Input-Requirement-Aware Differential Testing of Array Programming Frameworks]()<br/>
+Zhichao Zhou<sup>S</sup>, and <b>Jingzhu He</b>. <br/>
+To appear in ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>), 2026. 
+<br/>
+<br/>
+
 \[C21\] [Themis: Detecting Distributed Concurrency Bugs through RPC-Driven Race-Directed Test Generation and Fuzzing]()<br/>
 Hongchen Cao<sup>S</sup>, <b>Jingzhu He</b>, Ting Dai, and Guoliang Jin. <br/>
 To appear in 23rd USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), 2026. 
+🎉 Artifact badges:  
+![Available](https://img.shields.io/badge/Artifact-Available-brightgreen)
+![Functional](https://img.shields.io/badge/Artifact-Functional-blue)
+![Reproduced](https://img.shields.io/badge/Artifact-Reproduced-orange)
 <br/>
 <br/>
 
