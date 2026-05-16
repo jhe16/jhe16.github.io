@@ -16,7 +16,11 @@ S: Students are advised by me at ShanghaiTech University.
 
 \[C22\] [LLM-Assisted Input-Requirement-Aware Differential Testing of Array Programming Frameworks](https://jhe16.github.io/files/FSE26.pdf)<br/>
 Zhichao Zhou<sup>S</sup>, and <b>Jingzhu He</b>. <br/>
-To appear in ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>), 2026. 
+To appear in ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>), 2026. <br/>
+🎉 Artifact badges: 
+![Available](https://img.shields.io/badge/Artifact-Available-brightgreen)
+![Functional](https://img.shields.io/badge/Artifact-Functional-blue)
+![Reproduced](https://img.shields.io/badge/Artifact-Reproduced-orange)
 <br/>
 <br/>
 
